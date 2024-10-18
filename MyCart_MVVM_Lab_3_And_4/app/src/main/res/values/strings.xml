@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyCart_MVVM</string>
+    <string name="all_products">Get All Products</string>
+    <string name="title">Title</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="brand">Brand</string>
+    <string name="rating">Rating</string>
+    <string name="previous">Prev</string>
+    <string name="next">Next</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="get_favourite_products">Get Favourite Products</string>
+    <string name="remove_from_fav">Remove From Favourites</string>
+    <string name="product_image">Product Image</string>
+    <string name="exit">Exit</string>
+</resources>
